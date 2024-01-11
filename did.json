@@ -1,0 +1,12 @@
+"verificationMethod": 
+{
+"id": "did:web:vishwa-vyom.github.io:test-project#key-0",
+"type": "JsonWebKey2020",
+"controller": "did:web:vishwa-vyom.github.io:test-project",
+"publicKeyJwk": {
+"kty": "EC",
+"crv": "secp256k1",
+"x": "4zCeN-8ajR6NOl6eBxuJNnskdyPrX-OSwOWGs0qvcno",
+"y": "Fu5NJs9JzM_c0MzUu_TZFNqcy2n12n58lSFRWlsgHG0"
+}
+}
