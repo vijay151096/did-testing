@@ -1,7 +1,7 @@
 
   {
     "id": "did:web:vishwa-vyom.github.io:test-project#key-0",
-    "type": "Ed25519Signature2020",
+    "type": "Ed25519VerificationKey2020",
     "controller": "did:web:vishwa-vyom.github.io:test-project",
     "publicKeyJwk": {
       "kty": "EC",
