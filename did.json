@@ -1,5 +1,4 @@
-{
-  "verificationMethod": 
+
   {
     "id": "did:web:vishwa-vyom.github.io:test-project#key-0",
     "type": "Ed25519Signature2020",
@@ -11,4 +10,4 @@
       "y": "Fu5NJs9JzM_c0MzUu_TZFNqcy2n12n58lSFRWlsgHG0"
     }
   }
-}
+
